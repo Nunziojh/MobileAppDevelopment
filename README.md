@@ -12,9 +12,9 @@ The main objective of this project is to create a task management app that facil
 - Firestore: A flexible, scalable database for mobile, web, and server development.
 # Installation
 Clone the repository:
-′′′bash
+```sh
 git clone https://github.com/your-repo/taskable.git
-′′′
+```
 Open the project in Android Studio.
 Build and run the project on an Android device or emulator.
 # Contributors
