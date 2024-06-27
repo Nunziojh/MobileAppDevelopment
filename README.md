@@ -11,12 +11,14 @@ The main objective of this project is to create a task management app that facil
 - Jetpack Compose: A modern toolkit for building native Android UI.
 - Firestore: A flexible, scalable database for mobile, web, and server development.
 # Installation
-Clone the repository:
+1. Clone the repository:
 ```sh
 git clone https://github.com/your-repo/taskable.git
 ```
-Open the project in Android Studio.
-Build and run the project on an Android device or emulator.
+2. Open the project in Android Studio.
+3. Obtain a token related to Google Services and link it with Firestore DB for demo purposes.
+4. Add the token to your project's google-services.json file.
+5. Build and run the project on an Android device or emulator.
 # Contributors
 This project was developed in collaboration with:
 
