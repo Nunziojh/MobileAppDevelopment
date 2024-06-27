@@ -20,10 +20,10 @@ Build and run the project on an Android device or emulator.
 # Contributors
 This project was developed in collaboration with:
 
-[Pierpaolo Bene](https://github.com/PierpaoloBene)
-[Luca Romeo](https://github.com/romeShowmethecode)
-[Nicolò Marsicano](https://github.com/Baffaloo)
-[Nunzio Messineo](https://github.com/Nunziojh)
+- [Pierpaolo Bene](https://github.com/PierpaoloBene)
+- [Luca Romeo](https://github.com/romeShowmethecode)
+- [Nicolò Marsicano](https://github.com/Baffaloo)
+- [Nunzio Messineo](https://github.com/Nunziojh)
 # Acknowledgements
 This application was created as a part of the Mobile App Development course at the Polytechnic University of Turin.
 Special thanks to our professors for their guidance and support.
